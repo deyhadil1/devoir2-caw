@@ -1,0 +1,27 @@
+.Lancer{
+   text-align: center;
+}
+.btn{
+  width:15em;
+  padding:1.5em;
+  border: 0px;
+  border-radius: 10px;
+  color:white;
+  background-color:darkslateblue;
+  margin-top: 3em;
+  align-self: center;
+}
+.Lancer button:hover
+{
+    cursor: pointer;
+}
+.text{
+    font-size: 40px;
+    color: green;
+}
+.dés{
+   display: flex;
+justify-content: center;
+  align-content: center;
+}
+
